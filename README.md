@@ -8,6 +8,6 @@ The project consits of 2 problems:
 
 2. To write a function that reverses the elements of a given list. The elements of this list can again include lists. In that case, elements of these lists are also to be reversed.
 
-      Example input: [[1,2],[3,4],[5,6,7]]
+      Example input: [[1, 2], [3, 4], [5, 6, 7]]
   
-      Example output: [[7,6,5],[4,3],[2,1]]
+      Example output: [[7, 6, 5], [4, 3], [2, 1]]
