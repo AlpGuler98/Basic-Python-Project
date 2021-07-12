@@ -1,4 +1,4 @@
-The project consits of 2 problems:
+This project consists of 2 problems:
 
 1. To write a function that flattens a given list.The elements of this list can also include lists. 
 
